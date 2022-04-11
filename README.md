@@ -1,3 +1,5 @@
+[![Tests](https://github.com/arenac/tic-tac-toe/actions/workflows/node.js.yml/badge.svg)](https://github.com/arenac/tic-tac-toe/actions/workflows/node.js.yml)
+
 # tic-tac-toe
 
 ## After clone this repo
